@@ -1,0 +1,15 @@
+* {
+    font-family: 'sans-serif';
+}
+
+.parent-div {
+    width:100%;
+}
+
+.drawing-cell {
+    border:1px black; 
+}
+
+.drawing-cell:hover {
+
+}
